@@ -1,7 +1,7 @@
 GAN for FER
 
 Only one Discriminator for image and feature!
-(只用一个判别器同时学习image和image feature)
+(只用一个判别器同时学习image和image feature.)
 
 main.py中的class GAN和class Train分别参考[GANimation](https://github.com/albertpumarola/GANimation)中的class GANimation和class Train
 
